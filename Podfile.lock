@@ -1,0 +1,20 @@
+PODS:
+  - KeychainAccess (4.2.2)
+  - youtube-ios-player-helper (1.0.3)
+
+DEPENDENCIES:
+  - KeychainAccess
+  - youtube-ios-player-helper
+
+SPEC REPOS:
+  trunk:
+    - KeychainAccess
+    - youtube-ios-player-helper
+
+SPEC CHECKSUMS:
+  KeychainAccess: c0c4f7f38f6fc7bbe58f5702e25f7bd2f65abf51
+  youtube-ios-player-helper: 0185c57db23c80d63d6ca11251d110abb8a4ca61
+
+PODFILE CHECKSUM: 0d0fd5c9cb7c0b6310183983ab987bb52410f85f
+
+COCOAPODS: 1.10.1

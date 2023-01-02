@@ -1,0 +1,6 @@
+framework module Pods_Badmintoneer_App_Badmintoneer_AppUITests {
+  umbrella header "Pods-Badmintoneer_App-Badmintoneer_AppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
