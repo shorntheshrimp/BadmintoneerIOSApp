@@ -1,3 +1,7 @@
+[![Swift Version][swift-image]][swift-url]
+[![License][license-image]][license-url]
+[![Platform](https://img.shields.io/cocoapods/p/LFAlertController.svg?style=flat)](http://cocoapods.org/pods/LFAlertController)
+
 # BadmintoneerIOSApp
 • What is the application? 
 Badmintoneer is an app that aims to motivate and help new and returning players familiarize with the 
@@ -49,3 +53,43 @@ articles or videos in many different platforms. By combining the techniques and 
 portable format set, users will be able to gain access to training anytime and fit it easily into their 
 schedule. By combining a social feature into the app, users will be able to transit from solo training to 
 actual games with other people on court.
+
+## Requirements
+
+- iOS 8.0+
+- Xcode 7.3
+
+## Installation
+
+#### CocoaPods
+You can use [CocoaPods](http://cocoapods.org/) to install `YourLibrary` by adding it to your `Podfile`:
+
+```ruby
+platform :ios, '8.0'
+use_frameworks!
+pod 'YourLibrary'
+```
+
+To get the full benefits import `YourLibrary` wherever you import UIKit
+
+``` swift
+import UIKit
+import YourLibrary
+
+## Screenshots
+
+![alt text](https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/Badmintoneer_Demovid.m4v?raw=true)
+![alt text](https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/ss1.m4v?raw=true)
+![alt text](https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/ss2.m4v?raw=true)
+![alt text](https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/ss3.m4v?raw=true)
+![alt text](https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/ss4.m4v?raw=true)
+![alt text](https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/ss5.m4v?raw=true)
+![alt text](https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/ss6.m4v?raw=true)
+![alt text](https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/ss7.m4v?raw=true)
+![alt text](https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/ss8.m4v?raw=true)
+![alt text](https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/ss9.m4v?raw=true)
+![alt text](https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/ss10.m4v?raw=true)
+![alt text](https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/ss11.m4v?raw=true)
+![alt text](https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/ss12.m4v?raw=true)
+![alt text](https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/ss13.m4v?raw=true)
+
