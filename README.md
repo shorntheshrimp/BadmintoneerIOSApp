@@ -79,7 +79,7 @@ import YourLibrary
 
 ## Screenshots
 
-![alt text](https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/Badmintoneer_Demovid.mp4?raw=true)
+![Watch the video](https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/Badmintoneer_Demovid.mp4?raw=true)
 ![alt text](https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/ss1.png?raw=true)
 ![alt text](https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/ss2.png?raw=true)
 ![alt text](https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/ss3.png?raw=true)
