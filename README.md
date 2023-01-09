@@ -75,6 +75,7 @@ To get the full benefits import `YourLibrary` wherever you import UIKit
 ``` swift
 import UIKit
 import YourLibrary
+```
 
 ## Screenshots
 
