@@ -1,5 +1,3 @@
-[![Swift Version][swift-image]][swift-url]
-[![License][license-image]][license-url]
 [![Platform](https://img.shields.io/cocoapods/p/LFAlertController.svg?style=flat)](http://cocoapods.org/pods/LFAlertController)
 
 # BadmintoneerIOSApp
@@ -79,7 +77,7 @@ import YourLibrary
 
 ## Screenshots
 
-![Watch the demo video](https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/Badmintoneer_Demovid.mp4?raw=true)
+![Watch the demo video](https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/badmintoneer_logo_large.png?raw=true)](https://youtu.be/vt5fpE0bzSY)
 ![alt text](https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/ss1.png?raw=true)
 ![alt text](https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/ss2.png?raw=true)
 ![alt text](https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/ss3.png?raw=true)
