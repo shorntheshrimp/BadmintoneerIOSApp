@@ -80,16 +80,15 @@ import YourLibrary
 *The image below will redirect you to youtube ↓*
 [![Watch the demo video](https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/youtube_ss.png?raw=true)](https://youtu.be/p1ztuU53MVc)
 <img src="https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/ss1.png?raw=true" width="300px">
-![alt text](https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/ss2.png?raw=true)
-![alt text](https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/ss3.png?raw=true)
-![alt text](https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/ss4.png?raw=true)
-![alt text](https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/ss5.png?raw=true)
-![alt text](https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/ss6.png?raw=true)
-![alt text](https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/ss7.png?raw=true)
-![alt text](https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/ss8.png?raw=true)
-![alt text](https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/ss9.png?raw=true)
-![alt text](https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/ss10.png?raw=true)
-![alt text](https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/ss11.png?raw=true)
-![alt text](https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/ss12.png?raw=true)
-![alt text](https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/ss13.png?raw=true)
-
+<img src="https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/ss2.png?raw=true" width="300px">
+<img src="https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/ss3.png?raw=true" width="300px">
+<img src="https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/ss4.png?raw=true" width="300px">
+<img src="https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/ss5.png?raw=true" width="300px">
+<img src="https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/ss6.png?raw=true" width="300px">
+<img src="https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/ss7.png?raw=true" width="300px">
+<img src="https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/ss8.png?raw=true" width="300px">
+<img src="https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/ss9.png?raw=true" width="300px">
+<img src="https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/ss10.png?raw=true" width="300px">
+<img src="https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/ss11.png?raw=true" width="300px">
+<img src="https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/ss12.png?raw=true" width="300px">
+<img src="https://github.com/shorntheshrimp/BadmintoneerIOSApp/blob/main/Screenshots/ss13.png?raw=true" width="300px">
